@@ -7,7 +7,7 @@ export default function Body(){
 return(
 
 <div>
-<h1 className= ""> BODY </h1>
+<h1 className= ""> TEST BODY </h1>
 </div>
 
 
