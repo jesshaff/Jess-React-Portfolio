@@ -13,7 +13,6 @@ function App() {
         <Navbar className='navbarContainer'/>
         <About className='aboutContainer'/>
         <Projects className='projectsContainer'/>
-        <Skills className='skillsContainer'/>
         <Contact className='contactContainer'/>
       </main> 
   );
