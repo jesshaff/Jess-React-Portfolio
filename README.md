@@ -17,7 +17,7 @@ My personal portfolio built with React.js and deployed to gh pages.
 * [License](#License)
 
 ## Application
-[Deployed Application](https://jesshaff.github.io/Jess-React-Portfolio/)
+[GH Pages Deployed Application](https://jesshaff.github.io/Jess-React-Portfolio/)
 
 <br>
 
