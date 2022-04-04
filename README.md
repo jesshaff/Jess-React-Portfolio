@@ -7,20 +7,21 @@
 My personal portfolio built with React.js and deployed to gh pages.
 <br>
 
-[Deployed Application](https://jesshaff.github.io/Jess-React-Portfolio/)
-
-<br>
-
-![](./public/images/portfolio.gif)
-
-
 ## Table of Contents
+* [Application](#Application)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributing](#Contributing)
 * [Tests](#Test)
 * [Questions](#Questions)    
 * [License](#License)
+
+## Application
+[Deployed Application](https://jesshaff.github.io/Jess-React-Portfolio/)
+
+<br>
+
+![](./public/images/portfolio.gif)
 
 ## Installation
 Run the following command to install all necessary dependencies:
