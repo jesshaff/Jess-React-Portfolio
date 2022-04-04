@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://jesshaff.github.io/Jess-React-Portfolio/",
     "name": "Jess Haff",
     "role": "Full Stack Web Developer",
-    "linkedinId":"jessica-haff",
+    "email":" jessicahaff5@gmail.com",
     "roleDescription": " I am interested in doing freelance work focusing on React.js",
     "socialLinks":[
         {
@@ -72,22 +72,22 @@ let resumeData = {
       {
         "name":"Feed Me Food Finder",
         "description":"webapp",
-        "imgurl":"./public/images/portfolio/feed-me-food-finder-landing-page.png"
+        "imgurl":"images/portfolio/feed-me-food-finder-landing-page.png"
       },
       {
         "name":"Weather Dashboard",
         "description":"webapp",
-        "imgurl":"./public/images/portfolio/weather-dashboard.png"
+        "imgurl":"/images/portfolio/weather-dashboard.png"
       },
       {
         "name":"THRVE App",
         "description":"webapp",  
-        "imgurl":"./public/images/portfolio/thrve-app.png"
+        "imgurl":"/images/portfolio/thrve-app.png"
       },
       {
         "name":"Employee Tracker",
         "description":"webapp",
-        "imgurl":"./public/images/portfolio/employee-tracker-main-menu.png"
+        "imgurl":"/images/portfolio/employee-tracker-main-menu.png"
       }
     ],
   }
